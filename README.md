@@ -4,7 +4,7 @@
 
 A passionate Software Developer with expertise in creating efficient and scalable web applications. With a strong foundation in modern web technologies, I specialize in crafting seamless user experiences.
 
-Skills:  REACTJS / NEXTJS / EXTJS / JS / TAILWIND CSS / VERSION CONTROL / JASPER REPORT / JAVA SPRING BOOT / MS SQL SERVE
+Skills:  REACTJS / NEXTJS / EXTJS / JS / TAILWIND CSS / VERSION CONTROL / JASPER REPORT / JAVA SPRING BOOT / MS SQL SERVER
 
 - 💼 I’m currently working on Fleek Bangladesh 
 - 💡 I’m currently learning NEXTJS 
