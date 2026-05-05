@@ -1,303 +1,33 @@
-# Ratul Hasan Rafi
+![Software Developer](https://pbs.twimg.com/profile_banners/1795813904138088449/1727436095/600x200)
 
-## Software Engineer
+### Hi there 👋, I am Ratul Hasan Rafi
+#### Software Engineer
 
-I am a Software Engineer with 2+ years of experience in web and mobile application development. I work with React, Next.js, React Native, Django, Java Spring Boot, Tailwind CSS, Redux, Zustand, and REST API-based systems.
+I am a Software Engineer with 2+ years of experience in web and mobile application development. I build scalable, clean, and user-friendly applications using modern frontend, backend, and mobile technologies.
 
-I focus on building clean, scalable, and user-friendly applications with practical business value. My experience includes corporate websites, HR mobile applications, online voting platforms, tutor booking systems, tender management systems, financial applications, and enterprise software solutions.
+Currently, I am working at **Fleek Bangladesh**, where I develop corporate web applications and mobile app features using React, React Native, Django, Tailwind CSS, REST APIs, and Redux Toolkit. I also have enterprise software experience from **Naztech Inc.**, where I worked with Java Spring Boot, ExtJS, MS SQL Server, and Jasper Report. :contentReference[oaicite:0]{index=0}
 
-Currently, I am working as a Software Engineer at Fleek Bangladesh, where I develop and maintain web and mobile applications using React, React Native, Django, Tailwind CSS, Redux Toolkit, and REST APIs.
+Skills: REACTJS / NEXTJS / TYPESCRIPT / DJANGO / REACT NATIVE / EXPO / EXTJS / TAILWIND CSS / ANT DESIGN / SHADCN UI / JAVA SPRING BOOT / NODEJS / EXPRESSJS / MS SQL SERVER / MYSQL / SQLITE / FIREBASE / REDUX / ZUSTAND / JASPER REPORT
 
----
+- 💼 I’m currently working at **Fleek Bangladesh**
+- 💡 I’m currently improving my skills in **Django, Next.js, React Native, and scalable full-stack development**
+- 👨‍💻 I have worked on web, mobile, enterprise, HR, voting, tutor booking, tender management, finance, and reporting systems
+- 🚀 Key projects: **BDVOTES.COM, TutorWise, Fleek HR App, Property Hero, FinWise, TenderWise**
+- 👯 I’m looking to collaborate on **real-world web and mobile application projects**
+- 💬 Ask me about **React, Next.js, Django, React Native, REST API integration, and frontend architecture**
 
-## Current Role
+### Featured Work
 
-### Software Engineer  
-**Fleek Bangladesh**  
-August 2024 - Present
+- **BDVOTES.COM** — Developed the full frontend for an online voting platform using ReactJS, TypeScript, Redux, Tailwind CSS, and Axios.
+- **TutorWise** — Built tutor search, authentication, booking management, and payment gateway features.
+- **Fleek HR Mobile App** — Worked on GPS-based attendance, leave management, payroll viewing, performance evaluation, push notifications, and document management.
+- **Property Hero** — Built dynamic property listing pages with filtering, sorting, search, animations, and Zustand-based state management.
+- **Naztech Enterprise Projects** — Worked on NID Service System and ATM Dispute Management System using Java Spring Boot, ExtJS, and MS SQL Server. :contentReference[oaicite:1]{index=1}
 
-- Develop and maintain the Fleek Bangladesh corporate website using React and Tailwind CSS
-- Build the Fleek HR mobile app with React Native
-- Work on attendance, leave, payroll, and performance management features
-- Integrate REST APIs and improve frontend performance using Redux Toolkit
-- Review code and support junior developers with best practices
+### Connect with me
 
----
-
-## Previous Experience
-
-### Software Engineer Trainee  
-**Naztech Inc.**  
-December 2022 - February 2024
-
-- Developed enterprise applications using Java Spring Boot and ExtJS
-- Worked with MS SQL Server for database schema design and query development
-- Created business intelligence reports using Jasper Report
-- Used SourceTree and Bitbucket for version control and team collaboration
-
----
-
-## Technical Skills
-
-### Frontend Development
-- React.js
-- Next.js
-- ExtJS
-- HTML5
-- CSS3
-- JavaScript ES6+
-- TypeScript
-
-### Mobile App Development
-- React Native
-- Expo
-- React Navigation
-- Expo Router
-
-### Styling and UI
-- Tailwind CSS
-- Ant Design
-- Shadcn UI
-- Bootstrap
-- Styled Components
-
-### Backend Development
-- Python
-- Django
-- Node.js
-- Express.js
-- Java Spring Boot
-
-### Database
-- MS SQL Server
-- MySQL
-- Firebase
-- SQLite3
-
-### State Management and Tools
-- Redux
-- Redux Toolkit
-- Zustand
-- Git
-- GitHub
-- Bitbucket
-- Docker
-- Docker Compose
-- Selenium
-- Jasper Report
-
-### Deployment and Platforms
-- Vercel
-- Netlify
-- FastPanel
-- cPanel
-- Google Play Store
-
----
-
-## Featured Projects
-
-### BDVOTES.COM
-**Website:** www.bdvotes.com  
-**Technologies:** React.js, TypeScript, Redux, Tailwind CSS, Axios
-
-BDVOTES.COM is an online voting platform where I developed the full frontend. I worked on responsive UI, authentication flows, contest-related features, voting API integrations, and user experience optimization.
-
-Key work:
-- Developed the full frontend application
-- Integrated REST APIs for authentication, contests, and voting
-- Built responsive and user-friendly UI
-- Improved the overall voting platform experience
-
----
-
-### TutorWise Web Platform
-**Website:** www.tutorwise.com.bd  
-**Technologies:** React.js, Tailwind CSS, Redux, Axios
-
-TutorWise is an online platform that connects students with tutors. I worked on user-facing features, authentication, tutor search, booking management, and payment gateway integration.
-
-Key work:
-- Implemented user authentication
-- Developed search and booking management features
-- Integrated payment gateway functionality
-- Built responsive frontend pages
-
----
-
-### Property Hero
-**Website:** www.propertyhero.xyz  
-**Technologies:** Next.js, TypeScript, Tailwind CSS, Zustand, Axios
-
-Property Hero is a real estate platform with dynamic property listing features.
-
-Key work:
-- Built dynamic property listing pages
-- Implemented filtering, sorting, and search functionality
-- Added scroll-based animations for better user engagement
-- Used Zustand for reusable global state management
-
----
-
-### Fleek Bangladesh Corporate Website
-**Technologies:** React.js, Django, SQLite3, Tailwind CSS, Axios
-
-A corporate website for Fleek Bangladesh with backend-powered lead collection and contact form functionality.
-
-Key work:
-- Developed and maintained the corporate website
-- Integrated contact forms with email notifications
-- Built lead collection features using Django
-- Connected frontend with backend APIs
-
----
-
-### TenderWise Web Application
-**Website:** www.tenderwise.com.bd  
-**Technologies:** React.js, Tailwind CSS, Redux
-
-TenderWise is a tender management system for procurement-related workflows.
-
-Key work:
-- Developed tender search and filtering features
-- Built notification-related functionality
-- Created dashboard features for tender tracking
-
----
-
-### FinWise Web Application
-**Website:** www.finwise.com.bd  
-**Technologies:** React.js, Tailwind CSS, Redux, Axios
-
-FinWise is a UPAS/LC management web application.
-
-Key work:
-- Built multi-step UPAS/LC application forms
-- Added form validation
-- Implemented currency converter features
-- Worked on financial workflow-related UI
-
----
-
-## Mobile Applications
-
-### Fleek HR Mobile App
-**Technologies:** React Native, Redux Toolkit, React Navigation
-
-An enterprise HR mobile application for employee management.
-
-Key work:
-- Built GPS-based attendance tracking
-- Developed leave management features
-- Worked on payroll viewing and performance evaluation
-- Implemented push notifications and document management
-
----
-
-### TutorWise Mobile App
-**Technologies:** React Native, Expo, Redux, React Navigation
-
-A cross-platform mobile app for TutorWise.
-
-Key work:
-- Developed mobile app features for iOS and Android
-- Implemented push notifications
-- Added in-app messaging and camera integration
-- Implemented offline support with AsyncStorage
-
----
-
-### FinWise Mobile App
-**Technologies:** React Native, Expo, Redux Toolkit, Axios, TypeScript, Tailwind CSS
-
-A mobile UPAS/LC management application.
-
-Key work:
-- Built UPAS/LC application forms
-- Added document upload functionality
-- Implemented biometric authentication
-- Created an interactive currency converter with graphical representation
-
----
-
-## Enterprise Projects
-
-### NID Service System
-**Company:** Naztech Inc.  
-**Technologies:** Java Spring Boot, ExtJS, MS SQL Server
-
-Key work:
-- Developed National ID verification and service management features
-- Integrated secure APIs for government database connectivity
-- Built admin panel features for NID application processing and approval workflow
-
----
-
-### ATM Dispute Management System
-**Company:** Naztech Inc.  
-**Technologies:** Java Spring Boot, ExtJS, MS SQL Server
-
-Key work:
-- Contributed to a banking dispute resolution system
-- Developed case management features with status tracking
-- Implemented reporting dashboard functionality for dispute analytics
-
----
-
-## Education
-
-### Bachelor of Science in Computer Science and Engineering
-**Canadian University of Bangladesh**  
-March 2025 - Present  
-Evening Batch
-
-### Diploma in Computer Engineering
-**Dhaka Polytechnic Institute**  
-2017 - 2022  
-CGPA: 3.66 / 4.00
-
----
-
-## Certification
-
-### Professional Web Design and Development
-**UYLAB**
-
-Covered modern web design principles, responsive design, HTML5, CSS3, JavaScript, UX design, and accessibility standards.
-
----
-
-## Volunteer Experience
-
-### Associate Volunteer Coordinator
-**IDEB IoT & Robotics Lab, Institution of Diploma Engineers, Bangladesh**  
-2019 - 2022
-
-- Coordinated technical education programs and TVET project initiatives
-- Organized workshops on IoT, Robotics, and emerging technologies
-
----
-
-## What I Am Focused On
-
-- Building scalable full-stack web applications
-- Improving frontend architecture and user experience
-- Developing production-ready React, Next.js, and Django applications
-- Building mobile applications with React Native
-- Writing clean, maintainable, and practical code
-- Learning better software architecture and backend system design
-
----
-
-## Contact
-
-- Email: ratulhasan9369@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ratul-hasan-rafi
-- GitHub: https://github.com/ratulhasan987
-- Portfolio: https://ratuls-portfolio.vercel.app
-
----
-
-## Personal Statement
-
-I believe good software should solve real problems, not just look good. My goal is to build reliable, clean, and scalable applications that create real value for users and businesses.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/ratulhasan987)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/ratul-hasan-rafi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35'>](https://www.facebook.com/rajinhasanratul.rafi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/ratulhasan9369)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35'>](https://ratuls-portfolio.vercel.app)
