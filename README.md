@@ -58,9 +58,9 @@ Currently, I am working at **Fleek Bangladesh**, where I contribute to real-worl
 
 ## 📊 GitHub Stats
 
-![Ratul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratulhasan987&show_icons=true&theme=tokyonight)
+![Ratul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratulhasan987&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratulhasan987&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratulhasan987&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
