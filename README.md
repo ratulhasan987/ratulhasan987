@@ -13,10 +13,10 @@ Currently, I am working at **Fleek Bangladesh**, where I contribute to real-worl
 ##  About Me
 
 - Currently working at **Fleek Bangladesh**
-- Learning and improving my skills in **Laravel**, **React native**, and scalable full-stack architecture
-- Interested in **web and mobile application development**, **backend systems**, and **clean UI/UX**
+- Learning and improving my skills in **Frappe**, **Laravel**, **React native**, and scalable full-stack architecture
+- Interested in **web and mobile application development**, **ERP systems**, **backend systems**, and **clean UI/UX**
 - Open to collaborating on meaningful open-source and real-world projects
-- Ask me about **React, Django, Next.js, REST APIs, and Software Development**
+- Ask me about **React, Laravel, Django, Next.js, REST APIs, React Native and Software Development**
 
 ---
 
