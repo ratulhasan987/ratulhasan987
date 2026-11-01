@@ -2,7 +2,7 @@
 
 # Hi, I'm Ratul Hasan
 
-### Software Developer | Full-Stack Web & mobile application Developer | React, Laravel & Django Enthusiast
+### Software Engineer | Full-stack ERP Developer transitioning to Frappe/ERPNext | React Native Developer | React, Laravel, Python & Frappe Enthusiast
 
 I am a passionate Software Developer focused on building efficient, scalable, and user-friendly web applications. I enjoy working with modern frontend and backend technologies to create clean, maintainable, and production-ready software.
 
